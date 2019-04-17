@@ -1,0 +1,16 @@
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\bin\Debug\netstandard2.0\ChiliGarlic.deps.json
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\bin\Debug\netstandard2.0\ChiliGarlic.dll
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\bin\Debug\netstandard2.0\ChiliGarlic.pdb
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\ChiliGarlic.csprojAssemblyReference.cache
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\ChiliGarlic.csproj.CoreCompileInputs.cache
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\ChiliGarlic.AssemblyInfoInputs.cache
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\ChiliGarlic.AssemblyInfo.cs
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\ChiliGarlic.dll
+C:\Users\Shakthi\Documents\Android-Xamarin\ChiliGarlic\ChiliGarlic\ChiliGarlic\obj\Debug\netstandard2.0\ChiliGarlic.pdb
